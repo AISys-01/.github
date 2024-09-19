@@ -17,3 +17,9 @@ At AISys.01, we are passionate about pioneering the next generation of artificia
 Join us at AISys.01 as we work towards a future where AI systems are intelligent, ethical, and accessible to all. Together, we can make a significant impact.
 
 **Let's build the future of AI, one commit at a time.**
+
+### Contributors:
+
+* XXX
+* XXX
+* XXX
